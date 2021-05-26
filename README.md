@@ -125,13 +125,5 @@ Vue.use(uView);
 
 请通过[快速上手](https://uviewui.com/components/quickstart.html)了解更详细的内容
 
-
-## 捐赠uView的研发
-
-uView文档内容和框架源码全部开源免费，如果您认为uView帮到了您的开发工作，您可以捐赠uView的研发工作，捐赠无门槛，哪怕是一杯可乐也好(相信这比打赏主播更有意义)。
-
-<img src="https://uviewui.com/common/wechat.png" width="220" >
-<img style="margin-left: 100px;" src="https://uviewui.com/common/alipay.png" width="220" >
-
 ## 版权信息
 uView遵循[MIT](https://en.wikipedia.org/wiki/MIT_License)开源协议，意味着您无需支付任何费用，也无需授权，即可将uView应用到您的产品中。
