@@ -121,6 +121,7 @@ Vue.use(uView);
 <template>
 	<u-button>按钮</u-button>
 	<view>视图</view>
+	<u-icon>视图</u-icon>
 </template>
 ```
 
