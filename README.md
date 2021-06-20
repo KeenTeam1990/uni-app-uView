@@ -123,4 +123,5 @@ Vue.use(uView);
 请通过[快速上手](https://uviewui.com/components/quickstart.html)了解更详细的内容
 
 ## 版权信息
+
 uView遵循[MIT](https://en.wikipedia.org/wiki/MIT_License)开源协议，意味着您无需支付任何费用，也无需授权，即可将uView应用到您的产品中。
